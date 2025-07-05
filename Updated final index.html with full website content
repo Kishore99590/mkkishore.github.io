@@ -1,0 +1,127 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>M.K. Kishore – AI Challenge Record</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+    }
+    header {
+      background-color: #0b3d91;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px 15px;
+      max-width: 1000px;
+      margin: auto;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #0b3d91;
+      margin-bottom: 15px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .gallery img {
+      width: 220px;
+      border: 1px solid #ccc;
+    }
+    footer {
+      background: #eee;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+    .payment {
+      background: #fff0f0;
+      padding: 15px;
+      border: 1px solid #ffcccc;
+      border-radius: 6px;
+    }
+    .highlight {
+      color: #d60000;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>M.K. Kishore – AI Challenge Public Record</h1>
+    <p>Official Website | Public Proof | Support & Services</p>
+  </header>  <section>
+    <h2>🏆 About the AI Challenge</h2>
+    <p>I, <strong>M.K. Kishore</strong> from Anantapur, Andhra Pradesh, challenged the world’s most advanced AI (ChatGPT) with creativity and emotion between <strong>June 22 – 30, 2025</strong>. This website displays my public proof and invites your support.</p>
+  </section>  <section>
+    <h2>📜 Proof Gallery</h2>
+    <div class="gallery">
+      <img src="images/proof1.jpg" alt="Certificate Front">
+      <img src="images/proof2.jpg" alt="Certificate ID View">
+      <img src="images/proof3.jpg" alt="Chat Screenshot">
+      <img src="images/proof4.jpg" alt="Challenge Request">
+      <img src="images/proof5.jpg" alt="AI Confusion">
+      <img src="images/proof6.jpg" alt="Final Day">
+      <img src="images/proof7.jpg" alt="Proof 7">
+      <img src="images/proof8.jpg" alt="Proof 8">
+      <img src="images/proof9.jpg" alt="Proof 9">
+      <img src="images/proof10.jpg" alt="Proof 10">
+      <img src="images/proof11.jpg" alt="Proof 11">
+      <img src="images/proof12.jpg" alt="Proof 12">
+      <img src="images/proof13.jpg" alt="Proof 13">
+    </div>
+  </section>  <section>
+    <h2>💰 Support My Innovation</h2>
+    <div class="payment">
+      <p>Please support my journey to promote Indian talent and creative challenges in technology.</p>
+      <p><strong>UPI ID:</strong> <span class="highlight">kishorein143@ybl</span></p>
+      <p><strong>Bank Details:</strong><br/>
+        Canara Bank, Kundurpi<br/>
+        A/C No: 31442210066435<br/>
+        IFSC: CNRB0013144</p>
+      <p><strong>QR Code:</strong></p>
+      <img src="images/qr.jpg" alt="QR Code">
+    </div>
+  </section>  <section>
+    <h2>💼 Hire Me for Online Work</h2>
+    <p>I am available for remote digital tasks, content creation, freelance projects, and website assistance. Trustworthy and efficient work guaranteed.</p>
+    <p><strong>Email:</strong> kishore.worldrecord2025@gmail.com<br/>
+       <strong>Phone:</strong> 9959070336</p>
+  </section>  <section>
+    <h2>✍️ Kavithvam (Poetry) Writing Services</h2>
+    <p>I write custom Telugu kavithvams for all occasions. Order now!</p>
+    <ul>
+      <li>📝 Personal Kavithvam – ₹49</li>
+      <li>❤️ Love Kavithvam – ₹99</li>
+      <li>😭 Emotional Kavithvam – ₹149</li>
+    </ul>
+    <p>Delivery via WhatsApp/email. Contact me with your name and theme to get started.</p>
+  </section>  <section>
+    <h2>🎓 Certificate & Poster Design Services</h2>
+    <p>Need a certificate or digital poster? I’ll design for you at affordable cost:</p>
+    <ul>
+      <li>📜 Certificate Design – ₹99</li>
+      <li>🎨 Poster / Banner Design – ₹199</li>
+      <li>🧠 Custom AI Challenge Story Setup – ₹499</li>
+    </ul>
+    <p>Contact via WhatsApp or Email for your request.</p>
+  </section>  <footer>
+    <p>&copy; 2025 M.K. Kishore | This site is proudly hosted as public record of AI Challenge</p>
+  </footer>
+</body>
+</html>
